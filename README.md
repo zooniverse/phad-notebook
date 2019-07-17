@@ -1,8 +1,8 @@
-## Planet Hunters and PHAD
+# Planet Hunters and PHAD
 
 This repository contains a notebook for interacting with the [Planet Hunters API](https://planethunters.org) and the [Planet Hunters Analysis Database](https://mast.stsci.edu/phad/) (PHAD) hosted at [MAST](https://mast.stsci.edu).
 
-### What am I looking at here?
+## What am I looking at here?
 
 This notebook takes as an input a `subject_id` which is the first column on the PHAD site:
 
@@ -12,6 +12,6 @@ After executing all of the cells, you should be left with a plot a little bit li
 
 ![Markings](https://user-images.githubusercontent.com/4483/61394457-0e133000-a8bb-11e9-8715-f30440660377.png)
 
-### I love this - how can I do this too?
+## I love this - how can I make these plots?
 
 Great! You can run this notebook on Binder without installing any software. Just click this link → [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arfon/phad-notebook/master?filepath=notebook.ipynb)
