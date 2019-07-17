@@ -14,4 +14,4 @@ After executing all of the cells, you should be left with a plot a little bit li
 
 ### I love this - how can I do this too?
 
-Great! You can run this notebook on Binder without installing any software. Just click this link ➡️ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arfon/phad-notebook/master?filepath=notebook.ipynb)
+Great! You can run this notebook on Binder without installing any software. Just click this link → [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arfon/phad-notebook/master?filepath=notebook.ipynb)
