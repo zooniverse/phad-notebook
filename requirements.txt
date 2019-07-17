@@ -1,0 +1,3 @@
+astropy==3.2.1
+matplotlib==3.*
+panoptes-client==1.*
